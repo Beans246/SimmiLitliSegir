@@ -1,4 +1,10 @@
 # SimmiLitliSegir
+#Stígur Arason
+##VESM1KT05AK(2-S2)
+##Verkefnaskýrsla
+###Skýrsla sýnir hvernig kassinn virkar og sýnir myndir af öllum hliðum kassans. 
+
+
 <img src="https://www.dropbox.com/s/4pindmuriz4gyxm/IMG_4144.heic?dl=0" width="50%" height="50%">
 <img src="https://www.dropbox.com/s/z124eo3ck99ws0m/IMG_4143.heic?dl=0" width="50%" height="50%">
 <img src="https://www.dropbox.com/s/bbazej6bm9wxkii/IMG_4142.heic?dl=0" width="50%" height="50%">
